@@ -118,7 +118,7 @@ export default function Page() {
     <main className="relative bg-black min-h-screen">
       {/* Video 1 */}
       <VideoSection
-        src="/landing-4.mp4"
+        src="/for.mp4"
         label="Video 1: Relámpagos y templo"
         id="1"
       />
